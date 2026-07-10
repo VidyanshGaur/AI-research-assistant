@@ -1,5 +1,9 @@
 # 📄 AI Research Assistant
 
+🚀 **Live Demo:** https://ai-research-assistant-r83uzxqlnwxwubr2w8iqlp.streamlit.app
+
+---
+
 A RAG (Retrieval-Augmented Generation) pipeline that lets you upload research papers and interact with them through natural language — ask questions, generate summaries, compare papers, and download structured reports.
 
 ## Features
@@ -32,7 +36,7 @@ A RAG (Retrieval-Augmented Generation) pipeline that lets you upload research pa
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-research-assistant
+git clone https://github.com/VidyanshGaur/AI-research-assistant
 cd ai-research-assistant
 python3 -m venv venv
 source venv/bin/activate
@@ -67,4 +71,3 @@ ai-research-assistant/
 - Persistent FAISS index storage
 - Multi-document Q&A
 - Streaming responses
-- HuggingFace Spaces deployment
